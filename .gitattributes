@@ -1,1 +1,3 @@
-.c++ linguist-language=Dart
+*.css linguist-detectable=false
+*.js linguist-detectable=true
+*.java linguist-detectable=false
