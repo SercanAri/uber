@@ -1,5 +1,2 @@
-*.csharp linguist-detectable=false  
-*.java linguist-detectable=false  
-*.js linguist-detectable=false  
 *.dart linguist-detectable=true   
 *.c++ linguist-detectable=false  
