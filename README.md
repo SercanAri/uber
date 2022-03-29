@@ -1,6 +1,6 @@
 # uber
 
-![](https://i.hizliresim.com/7jt81mi.png)
+<img src="https://i.hizliresim.com/7jt81mi.png" width="250" height="500">
 
 ## Getting Started
 
